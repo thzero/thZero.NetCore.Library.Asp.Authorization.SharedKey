@@ -1,6 +1,6 @@
 ﻿/* ------------------------------------------------------------------------- *
 thZero.MetalTitans.Communication
-Copyright (C) 2021-2021 thZero.com
+Copyright (C) 2021-2022 thZero.com
 
 <development [at] thzero [dot] com>
 
