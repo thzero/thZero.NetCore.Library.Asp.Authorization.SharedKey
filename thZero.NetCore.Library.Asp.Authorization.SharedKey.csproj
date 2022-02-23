@@ -1,7 +1,7 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
     <AssemblyName>thZero.NetCore.Library.Asp.Authorization.SharedKey</AssemblyName>
     <PackageId>thZero.NetCore.Library.Asp.Authorization.SharedKey</PackageId>
     <Description></Description>
@@ -20,7 +20,7 @@
 
   <ItemGroup>
     <PackageReference Include="FirebaseAdmin" Version="2.2.0" />
-    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.10" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.2" />
   </ItemGroup>
 
   <ItemGroup>
